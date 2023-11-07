@@ -1,3 +1,4 @@
+@mytag
 Feature: Google search page
 
   Scenario: search in google
